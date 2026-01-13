@@ -5,6 +5,9 @@ const AutoCounter = () => {
   return (
     <div style={{ textAlign: "center", marginTop: "20px" }}>
       <h2>
+
+
+        
         Counter:{" "}
         <CountUp
           start={0}       // starting value

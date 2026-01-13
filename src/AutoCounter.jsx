@@ -14,6 +14,8 @@ const AutoCounter = () => {
           end={100}      // ending value
           duration={10}   // duration in seconds
         />
+
+        
       </h2>
     </div>
   );
